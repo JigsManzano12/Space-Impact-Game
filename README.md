@@ -8,11 +8,9 @@
 1. **Install Pygame**
    ```bash
    pip install pygame
-   ```bash
 2. **Run Game**
       ```bash
    python SpaceImpact.py
-   ```bash
 
 ## How to Play
 1.Use arrow keys to navigate the spaceship.
