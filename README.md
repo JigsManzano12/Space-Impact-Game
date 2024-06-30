@@ -13,6 +13,8 @@
    python SpaceImpact.py
 
 ## How to Play
-1.Use arrow keys to navigate the spaceship./n
-2.Use spacebar to shoot./n
+1.Use arrow keys to navigate the spaceship.
+
+2.Use spacebar to shoot.
+
 3.Defeat enemies and survive as long as possible to face the boss.
